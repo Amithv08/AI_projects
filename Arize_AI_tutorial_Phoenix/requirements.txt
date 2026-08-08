@@ -1,4 +1,11 @@
 fastapi
 python-dotenv
 uvicorn
+openinference-instrumentation-langchain
+langchain 
+langchain-openai 
+arize-otel 
+opentelemetry-sdk 
+opentelemetry-exporter-otlp
+deepagents
 
